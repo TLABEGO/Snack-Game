@@ -1,5 +1,5 @@
-# Snack-Game
-*Snack game*
+# Snake-Game
+*Snake game*
 
 Welcome to the Snake-game wiki!
 
