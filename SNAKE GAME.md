@@ -5,9 +5,9 @@ Welcome to the Snake-game wiki!
 
 This is an application of a snake game developed using Java.
 
-Below is a screenshots of the UI.
+Below is a screenshot of the game in action.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/TLABEGO/Snack-Game/blob/master/sample.png)
 
 
 ### How to play
